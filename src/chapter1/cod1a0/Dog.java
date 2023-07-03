@@ -1,9 +1,9 @@
-package chapter1;
+package chapter1.cod1a0;
 
 /**
  * @author : ImKunYoung
- * @packageName : PACKAGE_NAME
- * @fileName : Animal
+ * @packageName : chapter1
+ * @fileName : Dog
  * @since : 2023-07-03
  * description    :
  * <p>
@@ -12,5 +12,5 @@ package chapter1;
  * -----------------------------------------------------------
  * 2023-07-03        ImKunYoung       최초 생성
  */
-public class Animal {
+public class Dog extends Animal {
 }

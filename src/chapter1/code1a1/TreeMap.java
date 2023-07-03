@@ -1,3 +1,5 @@
+package chapter1.code1a1;
+
 public class TreeMap {
 
     TreeMapNode topNode = null;
